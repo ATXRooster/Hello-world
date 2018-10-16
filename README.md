@@ -1,2 +1,4 @@
 # Hello-world
-first
+
+Hello whoever
+I have very little knowledge what I'm doing
